@@ -1,0 +1,14 @@
+# Ignore model files
+*.h5
+
+# Ignore image files (optional if you don’t need them in repo)
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Ignore build files
+*.exe
+
+# Ignore node_modules (if not already)
+node_modules/
