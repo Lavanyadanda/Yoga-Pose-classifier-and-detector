@@ -47,29 +47,20 @@ Techniques Used: Transfer Learning, Fine-tuning, EarlyStopping
 
 🚀 How to Run Locally
 **1. Clone the repository**
-bash
-Copy
-Edit
+
 git clone https://github.com/your-repo/yoga-pose-classification.git
 cd yoga-pose-classification
 **2. Backend Setup (Node.js + Express.js)**
-bash
-Copy
-Edit
+
 cd backend
 npm install
 npm start
 **3. Flask API Setup**
-bash
-Copy
-Edit
+
 cd flask-api
 pip install -r requirements.txt
 python app.py
 **4. Frontend Setup (React.js)**
-bash
-Copy
-Edit
 cd frontend
 npm install
 npm start
