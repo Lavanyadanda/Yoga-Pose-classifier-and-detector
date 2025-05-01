@@ -66,10 +66,14 @@ cd flask-api
 pip install -r requirements.txt
 
 python app.py
+
 before runing upload th train folder from the yoga-82 dataset
 **4. Frontend Setup (React.js)**
+
 cd frontend
+
 npm install
+
 npm start
 **📸 Sample Output**
 Pose Name: Warrior II Pose
