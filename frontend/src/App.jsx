@@ -77,7 +77,7 @@ function App() {
         <div className="card result-card mt-5 p-4 shadow text-dark">
           <h2 className="text-center">Prediction Result</h2>
           <p><strong>Pose:</strong> {result.predicted_class}</p>
-          {/* <p><strong>Confidence:</strong> {result.confidence}%</p> */}
+          <p><strong>Confidence:</strong> {result.confidence}%</p>
           <p><strong>Match Accuracy:</strong> {result.match_accuracy}%</p>
 
           <div className="row mt-4">
@@ -107,3 +107,5 @@ function App() {
 }
 
 export default App;
+
+
