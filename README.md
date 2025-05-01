@@ -53,13 +53,20 @@ cd yoga-pose-classification
 **2. Backend Setup (Node.js + Express.js)**
 
 cd backend
+
 npm install
+
 npm start
+
+
 **3. Flask API Setup**
 
 cd flask-api
+
 pip install -r requirements.txt
+
 python app.py
+before runing upload th train folder from the yoga-82 dataset
 **4. Frontend Setup (React.js)**
 cd frontend
 npm install
